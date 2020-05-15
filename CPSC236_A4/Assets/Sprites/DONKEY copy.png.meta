@@ -11,6 +11,18 @@ TextureImporter:
   - first:
       213: 5659813282219838255
     second: DONKEY copy_2
+  - first:
+      213: 1102388501209330834
+    second: DONKEY copy_3
+  - first:
+      213: 2803849554826510156
+    second: DONKEY copy_4
+  - first:
+      213: 2852663059732408202
+    second: DONKEY copy_5
+  - first:
+      213: 925645910738798041
+    second: DONKEY copy_6
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -103,7 +115,7 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -124,7 +136,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -145,7 +157,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -153,6 +165,90 @@ TextureImporter:
       bones: []
       spriteID: 5a708b635303045eb8ceba536e32029b
       internalID: 5659813282219838255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DONKEY copy_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d7ba85a68e431a97daee2bc3561ed
+      internalID: 1102388501209330834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DONKEY copy_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23dea85567734f24bd8076f39d07848
+      internalID: 2803849554826510156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DONKEY copy_5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca16df5e71154c85a4154b017b20ab8
+      internalID: 2852663059732408202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DONKEY copy_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44699b909a054aebb46e86925e5b955
+      internalID: 925645910738798041
       vertices: []
       indices: 
       edges: []
