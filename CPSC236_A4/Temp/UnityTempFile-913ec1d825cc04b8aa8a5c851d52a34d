@@ -290,5 +290,8 @@
 /define:ENABLE_LEGACY_INPUT_MANAGER
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
+"Assets/Scripts/BarrelSpawn.cs"
 "Assets/Scripts/CharacterController2D.cs"
+"Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/PlayerMovement.cs"

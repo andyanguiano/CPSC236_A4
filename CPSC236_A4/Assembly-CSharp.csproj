@@ -63,7 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BarrelSpawn.cs" />
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/andresanguiano/Documents/CPSC_Courses/CPSC236/CPSC236_A4/CPSC236_A4/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
