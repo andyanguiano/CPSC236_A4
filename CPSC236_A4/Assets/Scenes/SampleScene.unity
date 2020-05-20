@@ -799,7 +799,7 @@ MonoBehaviour:
   spawnObject: {fileID: 6947687610658202649, guid: 46b322ab01b05425fa49b0c6c3662eb1,
     type: 3}
   maxTime: 10
-  minTime: 2
+  minTime: 3
 --- !u!4 &723320925
 Transform:
   m_ObjectHideFlags: 0

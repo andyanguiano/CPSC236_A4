@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="81" Column="1" />
       <File FileName="Assets/Scripts/BarrelSpawn.cs" />
-      <File FileName="Assets/Scripts/PauseMenu.cs" Line="37" Column="29" />
+      <File FileName="Assets/Scripts/PauseMenu.cs" />
       <File FileName="Assets/Scripts/MainMenu.cs" />
     </Files>
     <Pads>
@@ -22,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9634812e-26ce-4210-ac52-42b632f05cce" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="161c2855-f241-492f-8381-48435d2409fb" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
