@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{21779EA5-4FEF-38E1-A696-0F22377EF57E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="32" Column="22" />
-      <File FileName="Assets/Scripts/BarrelSpawn.cs" Line="46" Column="34" />
-      <File FileName="Assets/Scripts/PauseMenu.cs" Line="26" Column="1" />
-      <File FileName="Assets/Scripts/MainMenu.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="81" Column="1" />
+      <File FileName="Assets/Scripts/BarrelSpawn.cs" />
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="37" Column="29" />
+      <File FileName="Assets/Scripts/MainMenu.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,7 @@
           <Node name="CPSC236_A4" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="MainMenu.cs" selected="True" />
+                <Node name="PlayerMovement.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13930683-f1a6-4e67-891e-c4f9d29657c7" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9634812e-26ce-4210-ac52-42b632f05cce" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
